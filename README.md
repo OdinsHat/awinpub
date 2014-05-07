@@ -1,9 +1,10 @@
 AWIN Publisher Client Library
------------------------------
+=============================
 
-Meta data download
+Meta Data Download
+------------------
 * Advertiser
 * Category
 
-
-
+Datafeed Download
+-----------------
